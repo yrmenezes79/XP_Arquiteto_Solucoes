@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Script para instalar o Terraform no CentOS
 # https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
